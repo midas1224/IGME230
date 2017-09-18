@@ -6,12 +6,11 @@ Strategy/Action
 ## Platform
 Desktop only
 ## Story
-You are the chief of the defense for for a mining company in an asteroid belt infested with creatures made of rare metals themselves.
-Your job is keep the mining base safe while simultaneously collecting the materials from these creatures for a huge payday.
+You are the chief of the defense for for a mining company in an asteroid belt infested with creatures made of rare metals themselves. Your job is keep the mining base safe while simultaneously collecting the minerals from these creatures for a huge payday.
 ## Esthetics
 The overall esthetic will be a sort of space frontier feel, with industrial looking weapons and tools, with a backdrop of being in an asteroid field
 in space. The enemies are living geodes. As far as graphics are concerned I want to go for a dirty 32-bit look.
 ## Gameplay
-Players start with a base amount of money to buy a few towers to defend against the initial waves. As enemies are killed, money is added to the player's cash pool. As the game progresses the enemies gradually get harder, with the base enemies growing stronger, and new more resistant enemies being added. The player's goal is to collect enough money to leave the asteroid with significant profit.
+Players start with a base amount of money to buy a few towers to defend against the initial waves. As enemies are killed, money is added to the player's cash pool. As the game progresses the enemies gradually get harder, with the base enemies growing stronger, and new more resistant enemies being added. The player's goal is to collect enough money to leave the asteroid with significant profit. Enemies will follow set paths on their way to the mining base. As enemies enter the mining base the player loses money per unit, and adds more enemies to upcoming waves. Certain enemy types will be able to damage towers, which the player can try to move around, and defend with other towers.
 ## About the developer
 I'm Mitch Steffens, a second year Game Design & Development Major with interests in strategy games, game art, level design and fantasy games of all kinds.
